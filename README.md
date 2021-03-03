@@ -1,2 +1,2 @@
 # FPGA_Code
-xilinx, intel fpga test code
+xilinx Arty-Z7 Hello World Code
